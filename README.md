@@ -3,6 +3,6 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/EhDohWah)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/EhDohWah?tab=repositories)
 
-# Python Project <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" align="right" width="120" />
+# Java Project <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" align="right" width="120" />
 
  > A collection of easy Java small projects to help you improve your programming skills.
